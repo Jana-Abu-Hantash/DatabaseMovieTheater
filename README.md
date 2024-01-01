@@ -30,3 +30,5 @@ The database is designed to serve as the backend for an e-commerce platform, hel
 
 ## Outcome
 The project provided hands-on experience in creating a database from scratch, identifying and fixing errors, and enhancing functionality with views and triggers. The database effectively supports the e-commerce platform, offering a robust system for managing movie theater operations.
+
+© `<Jana-Abu-Hantash>`, `<abuhantash.jana@gmail.com>`, and `<2022>`.
